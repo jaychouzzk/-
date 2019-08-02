@@ -57,3 +57,14 @@
 
 24.[CVE-2017-11882钓鱼攻击
 ](https://payloads.online/archivers/2017-11-22/1#0x00-%E5%89%8D%E8%A8%80)
+
+25.[office宏
+](https://payloads.online/archivers/2019-05-16/1)
+
+26.[Swaks伪造邮件
+](https://payloads.online/archivers/2019-05-09/1)
+
+27.[彻底理解Windows认证](https://payloads.online/archivers/2018-11-30/1)
+
+28.[DNS信息搜集工具小结
+](https://payloads.online/archivers/2017-11-09/1)
