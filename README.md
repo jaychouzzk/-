@@ -35,3 +35,6 @@
 
 16.[ECShop全版本远程代码执行漏洞复现
 ](http://r3start.net/index.php/2018/09/04/146)
+
+17.[Mysql 在渗透测试中的利用
+](https://www.k0rz3n.com/2018/10/21/Mysql%20%E5%9C%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84%E5%88%A9%E7%94%A8/)
