@@ -8,3 +8,7 @@ http://www.admintony.com/%E5%85%B3%E4%BA%8E%E4%B8%8A%E4%BC%A0%E4%B8%AD%E7%9A%840
 ```
 http://www.admintony.com/Excel-4-0-macros.html
 ```
+3.IIS6_WebDAV远程代码执行漏洞(CVE-2017-7269)的正确打开方式
+```
+http://www.admintony.com/CVE-2017-7269.html
+```
