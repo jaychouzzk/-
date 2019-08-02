@@ -47,3 +47,6 @@
 
 21.[某站禁用各种函数情况下的 Thinkphp5.x 绕过 Getshell
 ](https://wsrc.weibo.com/load_detail_article/70)
+
+22.[漏洞分析 | Discuz ML! V3.X 代码注入漏洞
+](http://www.0xby.com/2096.html)
