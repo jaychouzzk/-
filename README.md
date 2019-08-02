@@ -71,3 +71,6 @@
 
 29.[socat 使用手册
 ](https://payloads.online/tools/socat)
+
+30.[几个扫描https漏洞的工具
+](https://payloads.online/archivers/2017-08-21/2)
