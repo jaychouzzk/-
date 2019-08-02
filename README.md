@@ -44,3 +44,6 @@
 19.[mysql 过滤小括号使用order by 注入](https://www.cnblogs.com/xishaonian/p/7703486.html)
 
 20.[SQL注入备忘手册](https://p0sec.net/index.php/archives/117/)
+
+21.[某站禁用各种函数情况下的 Thinkphp5.x 绕过 Getshell
+](https://wsrc.weibo.com/load_detail_article/70)
