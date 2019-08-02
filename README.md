@@ -68,3 +68,6 @@
 
 28.[DNS信息搜集工具小结
 ](https://payloads.online/archivers/2017-11-09/1)
+
+29.[socat 使用手册
+](https://payloads.online/tools/socat)
