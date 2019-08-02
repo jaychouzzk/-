@@ -26,3 +26,9 @@
 12.[ThinkPHP5 的简单搭建和使用](https://www.k0rz3n.com/2018/11/14/ThinkPHP5%20%E7%9A%84%E7%AE%80%E5%8D%95%E6%90%AD%E5%BB%BA/)
 
 13.[bypass disable_functions](https://github.com/yangyangwithgnu/bypass_disablefunc_via_LD_PRELOAD)
+
+14.[CVE-2019-1003000 Jenkins-PreAuth-RCE 复现过程
+](http://r3start.net/index.php/2019/03/01/439)
+
+15.[ThinkPHP v5.0和v5.1命令执行漏洞利用
+](http://r3start.net/index.php/2018/12/11/356)
