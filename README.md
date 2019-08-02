@@ -20,3 +20,7 @@ https://www.k0rz3n.com/2019/07/29/%E5%AF%B9%E4%B8%80%E6%AC%A1%20redis%20%E6%9C%A
 ```
 https://www.k0rz3n.com/2019/07/27/reGeorg%20%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%88%86%E6%9E%90(%E4%BB%A5%20php%20%E4%B8%BA%E4%BE%8B)/
 ```
+6.浅析 Kerberos 认证过程以及黄金票据和白银票据
+```
+https://www.k0rz3n.com/2019/03/17/%E6%B5%85%E6%9E%90%20Kerberos%20%E8%AE%A4%E8%AF%81%E8%BF%87%E7%A8%8B%E4%BB%A5%E5%8F%8A%E9%BB%84%E9%87%91%E7%A5%A8%E6%8D%AE%E5%92%8C%E7%99%BD%E9%93%B6%E7%A5%A8%E6%8D%AE/
+```
