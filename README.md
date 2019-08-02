@@ -42,3 +42,5 @@
 18.[windows 建立影子账户](https://www.k0rz3n.com/2018/06/26/windows%E6%B8%97%E9%80%8F%E4%B8%AD%E5%90%8E%E9%97%A8%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0%E6%96%B9%E6%B3%95%E6%8E%A2%E7%A9%B6/)
 
 19.[mysql 过滤小括号使用order by 注入](https://www.cnblogs.com/xishaonian/p/7703486.html)
+
+20.[SQL注入备忘手册](https://p0sec.net/index.php/archives/117/)
