@@ -28,3 +28,7 @@ https://www.k0rz3n.com/2019/03/17/%E6%B5%85%E6%9E%90%20Kerberos%20%E8%AE%A4%E8%A
 ```
 https://www.k0rz3n.com/2019/03/07/JSONP%20%E5%8A%AB%E6%8C%81%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8C%96%E6%8E%98%E6%96%B9%E6%B3%95/
 ```
+8.PHPINFO 中的重要信息
+```
+https://www.k0rz3n.com/2019/02/12/PHPINFO%20%E4%B8%AD%E7%9A%84%E9%87%8D%E8%A6%81%E4%BF%A1%E6%81%AF/
+```
