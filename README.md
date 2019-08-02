@@ -77,3 +77,6 @@
 
 31.[UEditor SSRF漏洞(JSP版本)分析与复现
 ](https://fuping.site/2018/05/25/UEditor-SSRF-In-JSP/)
+
+32.[WinRAR漏洞复现过程
+](https://fuping.site/2019/02/21/WinRAR-Extracting-Code-Execution-Validate/)
