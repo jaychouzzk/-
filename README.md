@@ -74,3 +74,6 @@
 
 30.[几个扫描https漏洞的工具
 ](https://payloads.online/archivers/2017-08-21/2)
+
+31.[UEditor SSRF漏洞(JSP版本)分析与复现
+](https://fuping.site/2018/05/25/UEditor-SSRF-In-JSP/)
