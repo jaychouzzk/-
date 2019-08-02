@@ -54,3 +54,6 @@
 23.[不可忽视的打印机漏洞研究](http://www.0xby.com/1790.html)
 
 23.[Hacking JWT(JSON Web Token)](https://www.cnblogs.com/dliv3/p/7450057.html#%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2)
+
+24.[CVE-2017-11882钓鱼攻击
+](https://payloads.online/archivers/2017-11-22/1#0x00-%E5%89%8D%E8%A8%80)
