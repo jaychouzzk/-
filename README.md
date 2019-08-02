@@ -38,3 +38,5 @@
 
 17.[Mysql 在渗透测试中的利用
 ](https://www.k0rz3n.com/2018/10/21/Mysql%20%E5%9C%A8%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%9A%84%E5%88%A9%E7%94%A8/)
+
+18.[windows 建立影子账户](https://www.k0rz3n.com/2018/06/26/windows%E6%B8%97%E9%80%8F%E4%B8%AD%E5%90%8E%E9%97%A8%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0%E6%96%B9%E6%B3%95%E6%8E%A2%E7%A9%B6/)
