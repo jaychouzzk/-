@@ -44,3 +44,7 @@ https://www.k0rz3n.com/2018/11/19/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%B8%A6%
 ```
 https://www.k0rz3n.com/2018/11/19/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%B8%A6%E4%BD%A0%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%20XXE%20%E6%BC%8F%E6%B4%9E/
 ```
+12.ThinkPHP5 的简单搭建和使用
+```
+https://www.k0rz3n.com/2018/11/14/ThinkPHP5%20%E7%9A%84%E7%AE%80%E5%8D%95%E6%90%AD%E5%BB%BA/
+```
