@@ -50,3 +50,6 @@
 
 22.[漏洞分析 | Discuz ML! V3.X 代码注入漏洞
 ](http://www.0xby.com/2096.html)
+
+23.[不可忽视的打印机漏洞研究](http://www.0xby.com/1790.html)
+
